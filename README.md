@@ -53,4 +53,5 @@ A simple Python project that continuously monitors a specified directory and log
 ```
 -----
 👨‍💻 Author
-Vaibhav Pawar
+</br>
+    Vaibhav Pawar
