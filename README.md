@@ -52,5 +52,5 @@ A simple Python project that continuously monitors a specified directory and log
     2025-11-10 21:23:24,771:__main__:INFO:text3.txt Deleted
 ```
 -----
-
-
+👨‍💻 Author
+Vaibhav Pawar
